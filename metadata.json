@@ -1,0 +1,6 @@
+{
+  "name": "Fútbol y Viajes - Поле Чудес & Quiz",
+  "description": "Իսպաներեն և հայերեն խաղ՝ Դաշտ Հրաշքների (գլխավոր բառը՝ aficionado), 30 ճանապարհորդական հարցերի վիկտորինա և 12 ֆուտբոլային թեմաներ սեղմումով թարգմանությամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
